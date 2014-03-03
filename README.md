@@ -1,4 +1,4 @@
 rottentomato56.github.io
 ========================
 
-Personal portfolio page
+Personal portfolio page. Very much a work in progress.
